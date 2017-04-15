@@ -1,0 +1,1 @@
+npm install gulp gulp-sass gulp-concat gulp-babel babel-preset-es2015 gulp-autoprefixer browser-sync babelify browserify gulp-notify gulp-plumber vinyl-buffer vinyl-source-stream --save-dev
